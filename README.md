@@ -7,9 +7,9 @@ Portfolio Website Assignment
 
 - Create your own GitHub profile/ID (use a name appropriate for job applications) <https://happygitwithr.com/github-acct.html>
 - Once you have a Github account, sign up for an account at <https://app.netlify.com/signup> using your Github account
-- Create a new public repo for your portofolio website & initialize it with a "readme" file.
+- Create a new public repo for your portfolio website & initialize it with a "readme" file.
 - (3 pts) Turn your repo into a default website, using the steps outlined in <https://mam2021.netlify.app/assignment/01-project/>
-       - modify content if you like, but for now it's fine to use the theme content provided   
+       - modify content if you like, but for now it's fine to use the theme content provided and just change your name, email address, etc.
 - Locate class repo
     - Find "kostis-christodoulou" in GitHub and locate the "gitHub-practice-am01" class repo
     - Click on "README.md" >> Edit (pencil icon in upper right)
