@@ -3,7 +3,7 @@ Portfolio Website Assignment
 
 # GitHub Personal Portfolio Assignment
 
-** Assignment Instructions**
+**Assignment Instructions**
 
 - (1 pts) Create your own GitHub profile/ID (use a name appropriate for job applications) <https://happygitwithr.com/github-acct.html>
 - Once you have a Github account, sign up for an account at <https://app.netlify.com/signup> using your Github account
@@ -27,7 +27,7 @@ Portfolio Website Assignment
 
 | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify portfolio website address              |  
 |:----------------------|:--------------|:---------------------|:------------------------------------------------------|:----------------------------------------------| 
-|Kostis Christodoulou   | no SG :-(     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |
+|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |
 
 
 <br>
