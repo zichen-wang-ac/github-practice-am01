@@ -23,6 +23,8 @@ Portfolio Website Assignment
 
 <br>
 
+# You may find <http://happygitwithr.com/index.html> useful
+
 # Class GitHub Table with all portfolio websites
 
 | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
@@ -30,7 +32,6 @@ Portfolio Website Assignment
 |Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 
 
-<br>
 
-# You may find <http://happygitwithr.com/index.html> useful
-- 
+
+
