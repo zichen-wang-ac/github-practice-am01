@@ -32,5 +32,5 @@ Portfolio Website Assignment
 
 <br>
 
-# You may find Happy Git with R Useful
-- <http://happygitwithr.com/index.html>
+# You may find <http://happygitwithr.com/index.html> useful
+- 
