@@ -25,9 +25,9 @@ Portfolio Website Assignment
 
 # Class GitHub Table with all portfolio websites
 
-| Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify portfolio website address              |  
-|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:----------------------------------------------| 
-|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |
+| Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
+|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
+|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 
 
 <br>
