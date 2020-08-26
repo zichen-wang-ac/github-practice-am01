@@ -1,5 +1,5 @@
 # github-practice-am01
-Portfolio Website Assignment
+Learning to use Github for your Portfolio Website Assignment
 
 # Personal Portfolio Assignment
 
