@@ -1,7 +1,7 @@
 # github-practice-am01
 Portfolio Website Assignment
 
-# GitHub Personal Portfolio Assignment
+# Personal Portfolio Assignment
 
 **Assignment Instructions**
 
