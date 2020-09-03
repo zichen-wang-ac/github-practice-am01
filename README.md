@@ -31,7 +31,7 @@ Learning to use Github for your Portfolio Website Assignment
 |:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |Othman Bensouda   | 2     | OthmanBensouda |<https://github.com/OthmanBensouda/Orion>   |<https://othman-portfolio.netlify.app/>        |2020-09-01 
-
+|Filippo de Bortoli | 14 | filippodebortolilbs |<https://github.com/filippodebortolilbs/filippodebortoli_portfolio> | <https://fdbportfolio.netlify.app/> | 2020-09-03
 
 
 
