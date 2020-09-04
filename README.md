@@ -34,7 +34,7 @@ Learning to use Github for your Portfolio Website Assignment
 |Filippo de Bortoli | 14 | filippodebortolilbs |<https://github.com/filippodebortolilbs/filippodebortoli_portfolio> | <https://fdbportfolio.netlify.app/> | 2020-09-03
 |Brigita Angkasa   | 10     | brigitaangkasa |<https://github.com/brigitaangkasa/my_website>   |<https://brigita-portfolio.netlify.app/>        |2020-09-03
 |Marie Krainer   | 12     | mkrainerMAM |<https://github.com/mkrainerMAM/marie_portfolio>   |<https://mariekrainerportfolio.netlify.app/>        |2020-09-03
-
+|Ozlem Cuhaci   | 9     | ozlem-cuhaci |<https://github.com/ozlem-cuhaci/my_website>   |<https://ozlem-portfolio.netlify.app/>        |2020-09-03
 
 
 
