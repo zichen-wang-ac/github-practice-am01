@@ -33,10 +33,12 @@ Learning to use Github for your Portfolio Website Assignment
 |Othman Bensouda   | 2     | OthmanBensouda |<https://github.com/OthmanBensouda/Orion>   |<https://othman-portfolio.netlify.app/>        |2020-09-01 
 |Filippo de Bortoli | 14 | filippodebortolilbs |<https://github.com/filippodebortolilbs/filippodebortoli_portfolio> | <https://fdbportfolio.netlify.app/> | 2020-09-03
 |Brigita Angkasa   | 10     | brigitaangkasa |<https://github.com/brigitaangkasa/my_website>   |<https://brigita-portfolio.netlify.app/>        |2020-09-03
-|Marie Krainer   | 12     | mkrainerMAM |<https://github.com/mkrainerMAM/marie_portfolio>   |<https://mariekrainerportfolio.netlify.app/>        |2020-09-03
+|Marie Krainer   | 12     | mkrainerMAM |<https://github.com/mkrainerMAM/my_website>   |<https://mariekrainer.netlify.app/>        |2020-09-03
 |Ozlem Cuhaci   | 9     | ozlem-cuhaci |<https://github.com/ozlem-cuhaci/my_website>   |<https://ozlem-portfolio.netlify.app/>        |2020-09-03
 |Alessandro Angeletti | 13     | AlessandroAngeletti |<https://github.com/AlessandroAngeletti/my_website> | <https://aamf.netlify.app/> | 2020-09-04
 |Aleksandar Vignjevic | 1     | alex-vignjevic |<https://github.com/alex-vignjevic/my_website> | <https://alex-vignjevic-portfolio.netlify.app/> | 2020-09-04
-
+|Ken Dobson   | 2     | dobsonke |<https://github.com/dobsonke/my_website>   |<https://kendobson.netlify.app/>        |2020-09-04
+|Renata Mariani Zanella | 7     | renatamarianiz |<https://github.com/renatamarianiz/my_website> | <https://renatamarianiz.netlify.app/> | 2020-09-04
+|Jan Mölich | 7     | janm97 |<https://github.com/janm97/my_website> | <https://janmoelich.netlify.app/> | 2020-09-04
 
 
