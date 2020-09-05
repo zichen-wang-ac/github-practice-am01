@@ -41,6 +41,6 @@ Learning to use Github for your Portfolio Website Assignment
 |09|Renata Mariani Zanella | 7     | renatamarianiz |<https://github.com/renatamarianiz/my_website> | <https://renatamarianiz.netlify.app/> | 2020-09-04
 |10|Jan Mölich | 7     | janm97 |<https://github.com/janm97/my_website> | <https://janmoelich.netlify.app/> | 2020-09-04
 |11|Christian Gonder | 5    | ChristianGonder |<https://github.com/ChristianGonder/my_website> | <https://christiangonder.netlify.app> | 2020-09-05
-|12|Etra Bianco | 5    | EtraBianco | <https://github.com/EtraBianco/my_website.git> | <https://etrabianco.netlify.app> | 2020-09-05
+|12|Etra Bianco | 5    | EtraBianco | <https://github.com/EtraBianco/my_website> | <https://etrabianco.netlify.app> | 2020-09-05
 
 
