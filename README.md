@@ -43,6 +43,6 @@ Learning to use Github for your Portfolio Website Assignment
 |11|Christian Gonder | 5    | ChristianGonder |<https://github.com/ChristianGonder/my_website> | <https://christiangonder.netlify.app> | 2020-09-05
 |12|Etra Bianco | 5    | EtraBianco | <https://github.com/EtraBianco/my_website> | <https://etrabianco.netlify.app> | 2020-09-05
 |13|Marco Laube | 10    | m-laube | <https://github.com/m-laube/my_website> | <https://m-laube.netlify.app/> | 2020-09-06
-|14|Noor Alameri   | 10     | NoorAlameri |<https://github.com/NoorAlameri/my_website>   |<https://noorala-portfolio.netlify.app/>        |2020-09-06 
+|14|Noor Alameri   | 10     | NoorAlameri |<https://github.com/NoorAlameri/PortfolioNoorA>   |<https://noorala-portfolio.netlify.app/>        |2020-09-06 
 |15|Alberto Lambert | 11    | alambert-ux | <https://github.com/alambert-ux/my_website> | <https://alberto-lambert.netlify.app/> | 2020-09-06
 |16|Sijia Liu | 11    | Sijia-Liu | <https://github.com/Sijia-Liu/my_website> | <https://sijialiu.netlify.app> | 2020-09-06
