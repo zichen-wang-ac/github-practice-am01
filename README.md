@@ -52,5 +52,6 @@ Learning to use Github for your Portfolio Website Assignment
 |20|Mengze Sun | 5     | Mengze-Sun |<https://github.com/Mengze-Sun/my_website>   |<https://mengze-sun.netlify.app>        |2020-09-06
 |21|Malay Memani | 6     | malay-memani |<https://github.com/malaymemani/my_website>   |<https://malay-memani.netlify.app>        |2020-09-06
 |22|Magdalena Cloppenburg| 6     | magdalenacloppenburg| <https://github.com/magdalenacloppenburg/mywebsite> | <https://magdalena-portfolio.netlify.app/> | 2020-09-06  
-|23|Peijun Xu   | 8     | peijun-xu |<https://github.com/peijun-xu/my_website>   |<https://peijun-portfolio.netlify.app/>        |2020-09-07
-|24|Agnieszka Prawda   | 6     | agnieszkaprawda|<https://github.com/agnieszkaprawda/my_website2>   |<https://agnieszkaprawda-mywebsite.netlify.app/>        |2020-09-07
+|23|Peijun Xu   | 8     | peijun-xu |<https://github.com/peijun-xu/my_website>   |<https://peijun-portfolio.netlify.app/>        |2020-09-06
+|24|Bartlomiej Makuch| 11     | bartlomiej-makuch| <https://github.com/bartlomiej-makuch/my-website> | <https://bartlomiej-makuch.netlify.app/> | 2020-09-06  
+|25|Agnieszka Prawda   | 6     | agnieszkaprawda|<https://github.com/agnieszkaprawda/my_website2>   |<https://agnieszkaprawda-mywebsite.netlify.app/>        |2020-09-07
