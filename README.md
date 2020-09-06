@@ -53,3 +53,4 @@ Learning to use Github for your Portfolio Website Assignment
 |21|Malay Memani | 6     | malay-memani |<https://github.com/malaymemani/my_website>   |<https://malay-memani.netlify.app>        |2020-09-06
 |22|Magdalena Cloppenburg| 6     | magdalenacloppenburg| <https://github.com/magdalenacloppenburg/mywebsite> | <https://magdalena-portfolio.netlify.app/> | 2020-09-06
 |23|Peijun Xu   | 8     | peijun-xu |<https://github.com/peijun-xu/my_website>   |<https://peijun-portfolio.netlify.app/>        |2020-09-06
+|23|Bartlomiej Makuch| 11     | bartlomiej-makuch| <https://github.com/bartlomiej-makuch/my-website> | <https://bartlomiej-makuch.netlify.app/> | 2020-09-06  
