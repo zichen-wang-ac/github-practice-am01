@@ -47,4 +47,4 @@ Learning to use Github for your Portfolio Website Assignment
 |15|Alberto Lambert | 11    | alambert-ux | <https://github.com/alambert-ux/my_website> | <https://alberto-lambert.netlify.app/> | 2020-09-06
 |16|Sijia Liu | 11    | Sijia-Liu | <https://github.com/Sijia-Liu/my_website> | <https://sijialiu.netlify.app> | 2020-09-06
 |17|Zhiyan Chen   | 12     | Hanyuspooh |<https://github.com/Hanyuspooh/Personal_Portfolio>   |<https://ferrarisucks.netlify.app/>        |2020-09-03
-
+|18|Derek Leung | 6     | DerekLeung0306 |<https://github.com/DerekLeung0306/individual_portfolio>   |<https://best-mathematician-in-the-world-is-grothendieck.netlify.app>        |2020-09-06
