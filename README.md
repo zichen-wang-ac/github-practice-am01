@@ -50,4 +50,4 @@ Learning to use Github for your Portfolio Website Assignment
 |18|Max derie| 15     | MaxDerie |<https://github.com/MaxDerie/my_website>   |<https://maxderie-portfolio.netlify.app/>        |2020-09-04
 |19|Derek Leung | 6     | DerekLeung0306 |<https://github.com/DerekLeung0306/individual_portfolio>   |<https://best-mathematician-in-the-world-is-grothendieck.netlify.app>        |2020-09-06
 |20|Mengze Sun | 5     | Mengze-Sun |<https://github.com/Mengze-Sun/my_website>   |<https://mengze-sun.netlify.app>        |2020-09-06
-|21|Rick van der Linden| 8   | RickLinden | <https://github.com/RickLinden/my_website>      | <https://rickvdlinden.netlify.app/>   | 06/09/2020
+|22|Magdalena Cloppenburg| 6     | magdalenacloppenburg| <https://github.com/magdalenacloppenburg/mywebsite> | <https://magdalena-portfolio.netlify.app/> | 2020-09-06 | 
