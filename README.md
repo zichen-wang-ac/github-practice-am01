@@ -62,3 +62,4 @@ Learning to use Github for your Portfolio Website Assignment
 |30|David Nazareth   |12    |david-nazareth|<https://github.com/david-nazareth/my_website> | <https://david-nazareth-portfolio.netlify.app/>|2020-09-06
 |31|Fabian Sinn | 2     | fabian-sinn | <https://github.com/fabian-sinn/my_website.git> | <https://fabiansinn.netlify.app/> |2020-09-06
 |32 | Vasu Dev Puri| 5| Vasudevpuri|<https://github.com/Vasudevpuri/my_website.git|https://vasudevpuri.netlify.app/>|2020-09-06     |
+|33 |Neel Kamal Puri| 3   | NeelKamalPuri | <https://github.com/NeelKamalPuri/NeelKamalPuri.git> |<https://neelkamalpuri.netlify.app/> |2020-09-06  
