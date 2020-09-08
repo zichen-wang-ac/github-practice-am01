@@ -71,3 +71,4 @@ Learning to use Github for your Portfolio Website Assignment
 |39| Mehdi Lembarki Kadiry|8| mehdilembarki| <https://github.com/mehdilembarki/my_website>| <https://mehdi-lembarki.netlify.app/>| 2020-09-07
 |40| Jiaxin(Oriana) Wei |4| oriana-wei| <https://github.com/oriana-wei/my_website>| <https://oriana-jiaxinwei.netlify.app/>| 2020-09-07
 |41|Jasper Muller | 1 | Jasper-Mueller | <https://github.com/Jasper-Mueller/Website_Project_Jasper> | <https://jaspers-analytics-journey.netlify.app/> | 2020-09-07
+|42|Ruchen Shangguan | 14 | Ruchen-Shangguan | <https://github.com/Ruchensg/my_website> | <https://ruchen-portfolio.netlify.app> | 2020-09-08
