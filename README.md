@@ -76,4 +76,5 @@ Learning to use Github for your Portfolio Website Assignment
 |44|Ruchen Shangguan | 14 | Ruchen-Shangguan | <https://github.com/Ruchensg/my_website> | <https://ruchen-portfolio.netlify.app> | 2020-09-08
 |45|Xinyu Yu |15| Xinyu-yu-0321| <https://github.com/Xinyu-yu-0321/my_website> | <https://xyu-portfolio.netlify.app> | 2020-09-08
 |46|Chen(Sammy) Chen | 14 | ChenSammyChen | <https://github.com/ChenSammyChen/my_website> | <https://awesome-sammy-website.netlify.app/> | 2020-09-08
-|47|Feiyang Ni |11| Feiyang-Ni| <https://github.com/Feiyang-Ni/my_website>| <https://feiyang-ni.netlify.app//>| 2020-09-08
+|47|Mehek Khanna |7|mehekkhanna| <https://github.com/mehekkhanna/my_website> | <https://mehekkhanna96.netlify.app> |2020-09-08|  
+|48|Feiyang Ni |11| Feiyang-Ni| <https://github.com/Feiyang-Ni/my_website>| <https://feiyang-ni.netlify.app//>| 2020-09-08
