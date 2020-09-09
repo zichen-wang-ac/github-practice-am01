@@ -87,3 +87,4 @@ Learning to use Github for your Portfolio Website Assignment
 |55| Michael Gritzbach | 4 | michaelgritzbach | <https://github.com/Gritzbach/my_website> | <https://michael-gritzbach.netlify.app/> | 2020-09-08
 |56| Stelios Tzavellos | 4 | steliostzavellos | <https://github.com/steliostzavellos/my_website | <https://stelios-tzavellos.netlify.app/> | 2020-09-08
 |57| Oana Muntean  | 15    | oanamunt |https://github.com/oanamunt/my_website.git   |<https://omunteanportofolio.netlify.app> |2020-09-9 
+|58| (Proud)Lucksika Chaikul  | 2    | lucksikac |<https://github.com/lucksikac/my_website>   |<https://proudlucksika.netlify.app/> |2020-09-9 
