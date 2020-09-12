@@ -90,3 +90,4 @@ Learning to use Github for your Portfolio Website Assignment
 |58| (Proud)Lucksika Chaikul  | 2    | lucksikac |<https://github.com/lucksikac/my_website>   |<https://proudlucksika.netlify.app/> |2020-09-9 
 |59| Ignacio Pascale  | 15    | ignaciopascale |<https://github.com/ignaciopascale/my-website>   |<https://ignacio-projects.netlify.app/> |2020-09-9 
 |60|Christopher Lewis   | 13     | ChrisLewisNZ |<https://github.com/ChrisLewisNZ/my_website>   |<https://chrislewisthekiwi-portfolio.netlify.app/>  |2020-09-11 
+|61|Himanshu Singh  | 13     | hsingh137 |<https://github.com/hsingh137/my_website>   |<https://himanhshu-singh-portfolio.netlify.app/>  |2020-09-12
