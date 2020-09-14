@@ -35,7 +35,7 @@ Learning to use Github for your Portfolio Website Assignment
 |03|Brigita Angkasa   | 10     | brigitaangkasa |<https://github.com/brigitaangkasa/my_website>   |<https://brigita-portfolio.netlify.app/>        |2020-09-03
 |04|Marie Krainer   | 12     | mkrainerMAM |<https://github.com/mkrainerMAM/my_website>   |<https://mariekrainer.netlify.app/>        |2020-09-03
 |05|Ozlem Cuhaci   | 9     | ozlem-cuhaci |<https://github.com/ozlem-cuhaci/my_website>   |<https://ozlem-portfolio.netlify.app/>        |2020-09-03
-|06|Alessandro Angeletti | 13     | AlessandroAngeletti |<https://github.com/AlessandroAngeletti/my_website> | <https://aamf.netlify.app/> | 2020-09-04
+|06|Alessandro Angeletti | 13     | AlessandroAngeletti |<https://github.com/AlessandroAngeletti/my_website> | <https://alexangeportfolio.netlify.app/> | 2020-09-04
 |07|Aleksandar Vignjevic | 1     | alex-vignjevic |<https://github.com/alex-vignjevic/my_website> | <https://alex-vignjevic-portfolio.netlify.app/> | 2020-09-04
 |08|Ken Dobson   | 2     | dobsonke |<https://github.com/dobsonke/my_website>   |<https://kendobson.netlify.app/>        |2020-09-04
 |09|Renata Mariani Zanella | 7     | renatamarianiz |<https://github.com/renatamarianiz/my_website> | <https://renatamarianiz.netlify.app/> | 2020-09-04
@@ -93,4 +93,5 @@ Learning to use Github for your Portfolio Website Assignment
 |61|Himanshu Singh  | 13     | hsingh137 |<https://github.com/hsingh137/my_website>   |<https://himanhshu-singh-portfolio.netlify.app/>  |2020-09-12
 |62|Ilana Kovalenko  | 1     | ILANA-20 |<https://github.com/ILANA-20/my_website>   |<https://ilana-portfolio.netlify.app/>  |2020-09-13
 |63|Lujia Huang  | 10     | LuciaLujia | <https://github.com/LuciaLujia/my_website> | <https://lujia.netlify.app/>  |2020-09-13
-|64|Zichen Wang   | 13     | zichen-wang-ac |<https://github.com/zichen-wang-ac/R_portfolio>   |<https://zw-r-portfolio-2020.netlify.app/>  |2020-09-14
+|64|Joseph Perrin  | 9    | jperrinmam2021 | <https://github.com/jperrinmam2021/jperrinwebsite> | <https://jperrinmam2021.netlify.app> |2020-09-14
+|65|Zichen Wang   | 13     | zichen-wang-ac |<https://github.com/zichen-wang-ac/R_portfolio>   |<https://zw-r-portfolio-2020.netlify.app/>  |2020-09-14
